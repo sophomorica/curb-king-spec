@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+	<title>Curb-King</title>
+	<rect width="32" height="32" fill="#1b1713" />
+	<path
+		fill="#efe4d2"
+		d="M4 23.5V13.2c0-2.4 1.6-4.2 4.4-4.2h5.1c1.8 0 2.7 1 3.3 2.4L18.4 16H28v7.5H4z"
+	/>
+	<path fill="#c44712" d="M4 23.5h24V26H4z" />
+</svg>

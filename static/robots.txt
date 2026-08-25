@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://curb-king-spec.vercel.app/sitemap.xml
